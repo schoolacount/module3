@@ -1,0 +1,27 @@
+[
+  
+  {
+  "name": "Shipping Container",
+  "price": 6000,
+  "description": "Store Anything Inside the Container.",
+  "features": "10ft x 10ft Container, Insulated.",
+  "image": "https://www.cratexgroup.com/wp-content/uploads/2014/11/blueshippingcontainer.jpg"
+  },
+  
+  {
+    "name": "Tiny Bottle",
+    "price": 1,
+    "description": "10mm x 8mm water bottle.",
+    "features": "Able to put water inside.",
+    "image": "https://i.pinimg.com/originals/88/54/fd/8854fdfcbca2003d75f2ca7c90ed8a8b.jpg"
+  },
+  
+  {
+    "name": "Butter Stick",
+    "price": 10,
+    "description": "Butter in Stick type",
+    "features": "Place butter on bread",
+    "image": "https://weirdamericanseatpeanutbutter.files.wordpress.com/2013/05/enhanced-buzz-20066-1345218850-91.jpg"
+  }
+  
+]  
