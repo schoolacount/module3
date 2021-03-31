@@ -1,2 +1,3 @@
-const data = fetch('https://schoolacount.github.io/module3/data.json').then(response => response.json());
-console.log(data);
+let response = await fetch('https://schoolacount.github.io/module3/data.json');
+let data = await response.json(); 
+console.log(data)
